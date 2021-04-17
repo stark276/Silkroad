@@ -5,7 +5,6 @@ products = [
         'image': '/images/manty.jpg',
         'description':
         'Steemed Ingredients black pepper salt onion beef lamb',
-        'brand': 'Apple',
         'category': 'Electronics',
         'price': 89.99,
         'countInStock': 10,
