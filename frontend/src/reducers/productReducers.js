@@ -5,7 +5,7 @@ PRODUCT_LIST_FAIL,
 
 PRODUCT_DETAILS_REQUEST,
 PRODUCT_DETAILS_SUCCESS ,
-PRODUCT_DETAILS_FAIL   } from '../constans/productConsants'
+PRODUCT_DETAILS_FAIL   } from '../constants/productConsants'
 
 export const productListReducer = (state = {products:[]}, action) => {
   switch(action.type) {
